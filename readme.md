@@ -8,6 +8,8 @@
 
 **脚本很不完善，但能放出来肯定能用，起码经历了Vmware Workstation下虚拟机里的测试。**
 
+**脚本测试视频[https://www.bilibili.com/video/av73558292](https://www.bilibili.com/video/av73558292)**
+
 ### 用法
 
 在Arch Linux Live CD中联网并挂载分区之后使用下面的命令开始安装
